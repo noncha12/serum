@@ -1,6 +1,6 @@
 {
   "name": "Skincare Routine Planner",
-  "short_name": "SkincarePlanner",
+  "short_name": "Skincare",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#FFF1F3",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
